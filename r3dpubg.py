@@ -1,5 +1,5 @@
 # طلبات الاستيراد
-استيراد  نظام التشغيل
+import os
 
 import random
 print(f"""
