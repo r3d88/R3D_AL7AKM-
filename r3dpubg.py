@@ -3,7 +3,7 @@ import os
 
 import random
 os.system('clear')
-طباعة ( f "" "
+print ( f "" "
  \033[1;96m ------------------------
  \033[1;32m < Hello -usar >
  \033[1;96m ------------------------
