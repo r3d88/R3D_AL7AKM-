@@ -1,5 +1,6 @@
-import requests
-import os
+# طلبات الاستيراد
+استيراد  نظام التشغيل
+
 import random
 print(f"""
  \033[1;96m ------------------------
